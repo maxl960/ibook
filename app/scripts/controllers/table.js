@@ -14,5 +14,5 @@ angular.module('ibookApp')
       'AngularJS',
       'Karma'
     ];
-    $scope.list=['book1','book2','book3']
+    $scope.list=['book1','book2','book3'，'book4'];
   });
